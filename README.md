@@ -4,8 +4,6 @@ Hi 👋 My name is Oleksandr
 I’m interested in HTML, CSS, JS
 -------------------------------
 
-I’m currently learning React
-
 My first expirience:
 
 🛠 [4Smart](https://4smart.netlify.app/) - [GitHub repo](https://github.com/olekrumian/4smart) onepage website for local business<br>
