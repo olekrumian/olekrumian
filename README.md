@@ -13,8 +13,8 @@ My first expirience:
 🚛 [Driver WebApp](https://pracas.netlify.app/) - [GitHub repo](https://github.com/olekrumian/CPSamat) web application for calculating driver goals and earnings<br>
 🚚 [Driver ViteAPP](https://workingtime-vite.netlify.app/) - [GitHub repo](https://github.com/olekrumian/workingTime-vite-app) Vite web application for calculating driver goals and earnings<br>
 💳 [CardCopy](https://cardcopy.netlify.app/) - [GitHub repo](https://github.com/olekrumian/cardCopy) my cardcopy page for voluntary donate for AFU<br>
-📔 [RecipeApp](https://route-recipe-app.netlify.app/) - [GitHub repo](https://github.com/olekrumian/recipeAPP-route) React Route Recipe App using for myself
-📔 [SolarPanel landing](https://romstal-panel.netlify.app/) - [GitHub repo](https://github.com/olekrumian/RP) Landing for the company which sell the solar panel
+📔 [RecipeApp](https://route-recipe-app.netlify.app/) - [GitHub repo](https://github.com/olekrumian/recipeAPP-route) React Route Recipe App using for myself<br>
+⚡︎ [SolarPanel landing](https://romstal-panel.netlify.app/) - [GitHub repo](https://github.com/olekrumian/RP) Landing for the company which sell the solar panel
 
 * 🌍  I'm based in Poland
 * ✉️  You can contact me at [olekrumian@gmail.com](mailto:olekrumian@gmail.com)
