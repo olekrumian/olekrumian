@@ -14,7 +14,8 @@ My first expirience:
 🚚 [Driver ViteAPP](https://workingtime-vite.netlify.app/) - [GitHub repo](https://github.com/olekrumian/workingTime-vite-app) Vite web application for calculating driver goals and earnings<br>
 💳 [CardCopy](https://cardcopy.netlify.app/) - [GitHub repo](https://github.com/olekrumian/cardCopy) my cardcopy page for voluntary donate for AFU<br>
 📔 [RecipeApp](https://route-recipe-app.netlify.app/) - [GitHub repo](https://github.com/olekrumian/recipeAPP-route) React Route Recipe App using for myself<br>
-⚡︎ [SolarPanel landing](https://romstal-panel.netlify.app/) - [GitHub repo](https://github.com/olekrumian/RP) Landing for the company which sell the solar panel
+⚡︎  [SolarPanel landing](https://romstal-panel.netlify.app/) - [GitHub repo](https://github.com/olekrumian/RP) Landing for the company which sell the solar panel
+🚫 [truckBan](https://truckban.netlify.app/) – [GitHub repo](https://github.com/olekrumian/truckBan) Web interface for checking truck movement bans and holidays across Europe  
 
 * 🌍  I'm based in Poland
 * ✉️  You can contact me at [olekrumian@gmail.com](mailto:olekrumian@gmail.com)
@@ -31,8 +32,6 @@ My first expirience:
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
 <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
-<a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
-<a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored.svg" width="36" height="36" alt="Premiere Pro" /></a>
 </p>
 
 
