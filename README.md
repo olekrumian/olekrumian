@@ -1,7 +1,7 @@
 Hi 👋 My name is Oleksandr
 ==========================
 
-I’m interested in HTML, CSS, JS
+I’m interested in HTML, CSS, JS, React, SwiftUI
 -------------------------------
 
 My first expirience:
@@ -14,13 +14,13 @@ My first expirience:
 🚚 [Driver ViteAPP](https://workingtime-vite.netlify.app/) - [GitHub repo](https://github.com/olekrumian/workingTime-vite-app) Vite web application for calculating driver goals and earnings<br>
 💳 [CardCopy](https://cardcopy.netlify.app/) - [GitHub repo](https://github.com/olekrumian/cardCopy) my cardcopy page for voluntary donate for AFU<br>
 📔 [RecipeApp](https://route-recipe-app.netlify.app/) - [GitHub repo](https://github.com/olekrumian/recipeAPP-route) React Route Recipe App using for myself<br>
-⚡︎  [SolarPanel landing](https://romstal-panel.netlify.app/) - [GitHub repo](https://github.com/olekrumian/RP) Landing for the company which sell the solar panel
-🚫 [truckBan](https://truckban.netlify.app/) – [GitHub repo](https://github.com/olekrumian/truckBan) Web interface for checking truck movement bans and holidays across Europe  
+⚡︎  [SolarPanel landing](https://romstal-panel.netlify.app/) - [GitHub repo](https://github.com/olekrumian/RP) Landing for the company which sell the solar panel<br>
+🚫 [truckBan](https://truckban.netlify.app/) – [GitHub repo](https://github.com/olekrumian/truckBan) Web interface for checking truck movement bans and holidays across Europe<br>
 
 * 🌍  I'm based in Poland
 * ✉️  You can contact me at [olekrumian@gmail.com](mailto:olekrumian@gmail.com)
 * 🚀  I'm currently working on [Budget tracker app](http://github.com/olekrumian/budget-tracker-js)
-* 🧠  I'm learning React
+* 🧠  Learning React
 
 ### Skills
 
