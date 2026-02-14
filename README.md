@@ -17,7 +17,7 @@ My first expirience:
 ⚡︎  [SolarPanel landing](https://romstal-panel.netlify.app/) - [GitHub repo](https://github.com/olekrumian/RP) Landing for the company which sell the solar panel<br>
 🚫 [truckBan](https://truckban.netlify.app/) – [GitHub repo](https://github.com/olekrumian/truckBan) Web interface for checking truck movement bans and holidays across Europe<br>
   [SimRacingEstimator](https://simracing-estimator.netlify.app) - Project with [MYevtushyk](https://github.com/MYevtushyk)<br>
-  [Driver Log Tracker](https://driverlogtracker.netlify.app) - [GitHub repo](https://github.com/olekrumian/DriverLog_web) Your Smart Assistant for Regulation 561 Compliance<br>
+🚛 [Driver Log Tracker](https://driverlogtracker.netlify.app) - [GitHub repo](https://github.com/olekrumian/DriverLog_web) Your Smart Assistant for Regulation 561 Compliance<br>
 
 * 🌍  I'm based in Poland
 * ✉️  You can contact me at [olekrumian@gmail.com](mailto:olekrumian@gmail.com)
