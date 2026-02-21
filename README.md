@@ -21,7 +21,7 @@ My first expirience:
 
 * 🌍  I'm based in Poland
 * ✉️  You can contact me at [olekrumian@gmail.com](mailto:olekrumian@gmail.com)
-* 🚀  I'm currently working on [Budget tracker app](http://github.com/olekrumian/budget-tracker-js)
+* 🚀  I'm currently working on ...
 * 🧠  Learning React
 
 ### Skills
